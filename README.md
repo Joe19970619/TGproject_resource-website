@@ -5,7 +5,7 @@
 
 ### 项目简介
 此项目为嵌入西电CTG工作室公众号的Web App,项目目的为方便能够与喜好技术、志同道合的大学生分享学习资源，帮助新人快速成长，了解技术脉络，找到学习方向,
-本后台管理界面仓库地址[点这里](https://github.com/Joe19970619/TGproject_resource-website-admin)
+**本后台管理界面仓库地址[点这里](https://github.com/Joe19970619/TGproject_resource-website-admin)**
 
 
 ### 开发者：
